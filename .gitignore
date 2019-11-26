@@ -57,3 +57,6 @@ local.properties
 
 # Code Recommenders
 .recommenders/
+
+classes
+.idea
